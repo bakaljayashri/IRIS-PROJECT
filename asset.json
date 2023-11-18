@@ -1,0 +1,2 @@
+{"columns": ["SepalLengthCm", "SepalWidthCm", "PetalLengthCm", "PetalWidthCm"], 
+"result_value": {"Iris-setosa": 0, "Iris-virginica": 1, "Iris-versicolor": 2}}
